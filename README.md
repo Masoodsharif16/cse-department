@@ -1,5 +1,5 @@
 <!--                   INFO        -->
-[![GitHub license](https://img.shields.io/github/license/lordsinstitute/cse-department)](https://github.com/lordsinstitute/cse-department/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg)](https://github.com/lordsinstitute/cse-department/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/lordsinstitute/cse-department.svg)](https://github.com/lordsinstitute/cse-department/graphs/contributors)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/lordsinstitute/cse-department.svg)](https://github.com/lordsinstitute/cse-department/pulls)
 
